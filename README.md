@@ -1,3 +1,5 @@
+Hello! You've probably come across this 
+
 This is a copy of the publicly available source of the game cookie clicker by orteil.  
 
 Here is the actual game:
