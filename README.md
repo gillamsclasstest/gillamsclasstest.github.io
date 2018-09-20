@@ -1,4 +1,4 @@
-Hello! You've probably come across this 
+Hello! This is the source code for a website that I coded for my 6th grade classroom. It also has the source code of cookie clicker, details below.
 
 This is a copy of the publicly available source of the game cookie clicker by orteil.  
 
@@ -9,9 +9,9 @@ Here is the orteil home page:
 http://orteil.dashnet.org/
 
 
-The purpose of this repository is to unblock cookie clicker, it is blocked the school network
+The purpose of this repository is to make a website for my classroom.
 
-All rights go to Orteil
+All rights for Cookie Clicker go to Orteil
 
 I understand that in the main html of cookie clicker, it says "Feel free to alter this code to your liking, but please do not re-host it, do not profit from it and do not present it as your own." 
 
