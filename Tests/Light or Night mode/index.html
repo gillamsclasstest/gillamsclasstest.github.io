@@ -1,1 +1,12 @@
-
+<!doctype html>
+<html>
+  <script>
+    function swapstylesheet(sheet){
+document.getElementById('pagestyle').setAttribute('href', sheet)
+}
+  </script>
+  <p>Example Text</p>
+  <div>Example Text 2</div>
+  <button onclick="swapstylesheet('nightmode.css')">Night Mode (Default)</button>
+  <button onclick="swapstylesheet('lightmode.css')">Light Mode (Beta!)</button>
+</html>
