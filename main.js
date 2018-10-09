@@ -11298,7 +11298,7 @@ Game.Launch=function()
 			if (Game.sparklesT==1) Game.sparkles.style.display='none';
 		}
 		
-		Game.Click=0;
+		Game.Click=500000000000000000000000000000000000000000000000000;
 		Game.Scroll=0;
 		Game.mouseMoved=0;
 		Game.CanClick=1;
